@@ -11,11 +11,6 @@
 </repositories>
   <dependencies>
   	<dependency>
-  		<groupId>de.fzi</groupId>
-  		<artifactId>gades</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  	<dependency>
   		<groupId>org.apache.jena</groupId>
   		<artifactId>jena-arq</artifactId>
   		<version>3.0.1</version>
@@ -30,10 +25,5 @@
         <artifactId>jdbc-driver-csv</artifactId>
         <version>1.0.0</version>
     </dependency>
-  	<dependency>
-  		<groupId>SemRelDocSearch-master</groupId>
-  		<artifactId>SemRelDocSearch-master</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 </project>
